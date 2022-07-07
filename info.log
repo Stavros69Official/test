@@ -1,0 +1,7 @@
+ ERROR:root:PortAudio library not found
+Traceback (most recent call last):
+  File "/storage/emulated/0/Download/selfbot/Ghost.py", line 208, in <module>
+    import sounddevice
+  File "/data/data/com.termux/files/usr/lib/python3.10/site-packages/sounddevice.py", line 71, in <module>
+    raise OSError('PortAudio library not found')
+OSError: PortAudio library not found

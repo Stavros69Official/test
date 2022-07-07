@@ -1,0 +1,63 @@
+{
+    "token": "OTczNjU0MTMyNTYyOTg0OTgw.GVTC7M.fYrV9w-mnMI7qsfr2jjeE-2EAltzl-MuEAXg-8",
+    "prefix": ".>",
+    "delete_timeout": 15,
+    "theme": "Ghost",
+    "riskmode": true,
+    "giveaway_join_delay": 15,
+    "giveaway_sniper_ui": false,
+    "snipers": {
+        "nitro": true,
+        "privnote": true,
+        "giveaway": true,
+        "tickets": true
+    },
+    "webhooks": {
+        "nitro": "https://discord.com/api/webhooks/993989804985421995/uEDFKYbEXHwiDjedz70r94-MaYK5xzaNwg9V_YGqvhrhF_6EBpQO8pAXnRkNYkLmVER_",
+        "privnote": "https://discord.com/api/webhooks/993989805602000936/-XnH4g68YCv2PoEnjnkc6xKMiXwAutlf3B05-ertCqiD05SQufkB-Z7m2B2qPGKffkLX",
+        "giveaway": "https://discord.com/api/webhooks/993989806101106709/j_j3yF_hM31nSeBz0BF-Q9pxTUNufqyL4N-68sjHUzpzZC32YDSHYdjjk_6p2n7EgRl4",
+        "ghostping": "https://discord.com/api/webhooks/993989806818349157/wqIplQwiiVozx24-t7o5qyAB_-lENrco2hXCcL7V0sXN68bWW8zl8XiNWxOrvHXILbCu",
+        "friendsupdate": "https://discord.com/api/webhooks/993989807615258705/BccV0r2gr2p-o8-XfA_xHHpBPSR9o7TUcetUEGFwINAI0c9KxhSyt9h80NTWOi8rEnYX",
+        "dmtyping": "https://discord.com/api/webhooks/993989808303112314/fwuRq2dAJMu167WbsfsWPob-gCyyBPoXLmNqLc-l2KJKVUBA5lzfoeFgA2sYEOGBXLs8",
+        "guildleave": "https://discord.com/api/webhooks/993989809049710782/HSgf0sDFpM_It2H5X1o1deIR2vWYygD1gk3BIJhv1XY6q_fN4VoYwXUGmlR22Y_F1HA0",
+        "selfbot": "https://discord.com/api/webhooks/993989809519476756/fEAdom6092ndLooP_8ex6E_pTxxeRTg_yvD-UccgxtuFmkYcGLXhgJb_YCUzAPuB1gIk",
+        "tickets": "https://discord.com/api/webhooks/993989810177986570/jq0Uj6eONiVdadaGXBoGunlr_HrjlJmHIFrnkJEi3snedVWgUGQoiQTVIbX_N1pg9Tk1"
+    },
+    "motd": {
+        "custom": false,
+        "custom_text": "Super Cool Custom MOTD"
+    },
+    "sounds": true,
+    "detections": {
+        "selfbot": true,
+        "ghostping": true,
+        "bans": true,
+        "deletedmessages": false,
+        "webhookmodification": true,
+        "friendsupdate": true,
+        "dmtyping": true,
+        "guildleave": true
+    },
+    "embed_mode": false,
+    "ignored_servers": {
+        "nitro": [],
+        "privnote": [],
+        "giveaways": [],
+        "ghostpings": [],
+        "selfbots": [],
+        "bans": [],
+        "deletedmessages": [],
+        "webhookmodifications": [],
+        "tickets": [],
+        "guildleave": []
+    },
+    "api_keys": {
+        "hypixel": "",
+        "tenor": ""
+    },
+    "afkmode": {
+        "enabled": false,
+        "replymessage": "im currently afk :/"
+    },
+    "toastnotifications": true
+}
